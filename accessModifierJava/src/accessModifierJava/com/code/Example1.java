@@ -11,6 +11,7 @@ public class Example1 {
 	public void test1() {
       System.out.println("public void test1()");
       System.out.println("public void test123456789()");
+      System.out.println("New change!!!");
 	}
 
 	protected void test2() {
